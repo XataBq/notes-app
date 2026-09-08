@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.AvitoNotes" parent="Theme.AvitoNotes.Base">
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

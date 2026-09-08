@@ -1,0 +1,7 @@
+# Copy to local.properties, set your SDK path. Never commit local.properties.
+sdk.dir=C\:/Users/YOUR_USER/AppData/Local/Android/Sdk
+# Base64 authorization keys from the respective developer accounts, without "Basic ".
+GIGACHAT_AUTH_KEY=
+GIGACHAT_SCOPE=GIGACHAT_API_PERS
+SALUTE_AUTH_KEY=
+SALUTE_SCOPE=SALUTE_SPEECH_PERS
